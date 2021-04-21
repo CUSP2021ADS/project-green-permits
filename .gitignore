@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 *.pkl
 *.feather
+green-permits-feathers.zip

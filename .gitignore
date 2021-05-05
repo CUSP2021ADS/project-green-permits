@@ -166,3 +166,5 @@ pluto_21v1.csv
 tl_2020_36_tract/tl_2020_36_tract.shp.iso.xml
 tl_2020_36_tract/tl_2020_36_tract.shp.ea.iso.xml
 ACS.ipynb
+perf.csv
+perf.xlsx
